@@ -1,0 +1,20 @@
+{
+    "field_name": "Llewellyn AAFC Farm",
+    "trial_name": "Phenocanola",
+    "trial_code_name": "17Phenocanola1",
+    "trial_year": 2017,
+    "crop_name": "canola",
+    "n_ranges": 6,
+    "n_plots_per_range": [39],
+    "n_rows_per_plot": 5,
+    "n_rows_per_plot_gap": 1,
+    "plot_size_across_range": 20,
+    "plot_size_along_range": 5,
+    "plot_gaps": [1],
+    "range_gaps": [6, 32, 6, 32, 6],
+    "trial_unit": "ft",
+    "range_compass_direction": "S",
+    "trial_top_left_corner_compass_position": "NW",
+    "plots_info_csv": "/home/wsv759/Dropbox/Documents/ra_2016_2017/p2irc/metadata/2017/layouts/plot_vision_layouts/phenocanola_2017_plots_info.csv",
+    "trial_plot_link_field": "plot_variety_name"
+}
